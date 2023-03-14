@@ -13,7 +13,7 @@ paradigm. The IoT device is developed using RIOT-OS, while for cloud services th
 
 
 ## System Architecture
-Used developement board is NodeMCU ESP32 with OLED Display 868Mhz LoRa.
+Used developement board is [NodeMCU ESP32 with OLED Display 868Mhz LoRa](https://www.az-delivery.de/en/products/nodemcu-esp32-mit-integrierten-oled-display).
 
 ## Startup guide 
 
